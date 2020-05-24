@@ -1,0 +1,19 @@
+{
+    "name": "#Prueba de App pwa 1",
+    "short_name": "#Pruebapp 1",
+    "description": "habla io",
+    "background_color": "#2B2B2B",
+    "theme_color": "#F0DB4F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "./guou.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      } 
+    ]
+    }

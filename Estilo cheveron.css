@@ -1,0 +1,119 @@
+h3{
+    padding: 10px;
+    margin: 40px;
+    font-family: sans-serif;
+    color: rgb(236, 234, 234);
+    background-color: rgb(72, 112, 139);
+    border: 1px solid rgb(0, 0, 0);
+    font-style: italic;
+    width: 200px;
+    align-content: center;
+}
+p{
+    padding: 10px;
+    margin: 40px;
+    word-spacing: 10px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 110%;
+    color: black;
+    width: 550px;
+    background-color: rgb(107, 152, 182);
+    border: 1.5px solid rgb(0, 0, 0);
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+#fondue{
+margin: 40px;
+float: left;
+border-radius: 20px;
+background-color: rgb(47, 86, 145);
+background-size: 100%;
+width: 650px;
+background-position: center;
+}
+
+#fondue2{
+margin: 40px;
+
+    float: right;
+    border-radius: 20px;
+    background-color: rgb(47, 86, 145);
+    background-size: 100%;
+    width: 650px;
+    background-position: center;
+    }
+
+#lefonduelafransua{
+    overflow: hidden;
+}
+
+body{
+    background-image: url("lefondue.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.imgperro{
+    border: 3px solid rgb(223, 191, 104);
+    width:200px; 
+    height:200px;
+    background-size: 100%;
+    background-image: url("perro_gordo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    
+ }
+
+ .imagensitas{
+    padding: 10px;
+    margin: 40px;
+    width:100px; 
+    height:100px; 
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+ }
+
+ .imagensitas2{
+    padding: 10px;
+    margin: 40px;
+    width:300px; 
+    height:300px; 
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+ }
+
+ .imagensitas3{
+    padding: 10px;
+    margin: 40px;
+    width:250px; 
+    height:250px; 
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+ }
+
+ h1{
+    color: rgb(236, 234, 234);
+    background-color: rgb(47, 86, 145);
+    width: 600px;
+    height: 45px;
+    border: 1px solid black;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+hr{
+    background-color: rgb(17, 17, 141);
+    height: 30px;
+    border: 1.5px;
+    border-color: blue;
+    border-radius: 5px;
+}
